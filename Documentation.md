@@ -3,7 +3,7 @@ This documentation is for the stable release of Maska Library.
 
 ## Booting the Library
 ```lua
-local MaskaLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Maska/main/source')))()
+local MaskaLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/MaSKaThGod/hubforme/main/source")))()
 ```
 
 
